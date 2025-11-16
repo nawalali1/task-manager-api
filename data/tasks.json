@@ -1,0 +1,10 @@
+[
+  {
+    "id": "1763333100787",
+    "title": "My first task",
+    "description": "Testing the API",
+    "completed": false,
+    "createdAt": "2025-11-16T22:45:00.787Z",
+    "updatedAt": "2025-11-16T22:45:00.787Z"
+  }
+]
