@@ -283,3 +283,9 @@ This project is intentionally kept simple for portfolio purposes. Potential enha
 ## Licence
 
 This project is open source and available under the MIT Licence.
+
+## Author
+
+Nawal
+- GitHub: [@nawalali1](https://github.com/nawalali1)
+- LinkedIn: www.linkedin.com/in/nawal-ali-871a09332
